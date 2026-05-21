@@ -1,12 +1,12 @@
 {
     "domain": "immich_frame",
     "name": "Immich Frame",
-    "version": "0.0.1",
-    "documentation": "https://github.com/mpross512/ha-immich-frame",
     "codeowners": [
         "@mpross512"
     ],
     "config_flow": true,
+    "documentation": "https://github.com/mpross512/ha-immich-frame",
     "iot_class": "assumed_state",
-    "issue_tracker": "https://github.com/mpross512/ha-immich-frame/issues"
+    "issue_tracker": "https://github.com/mpross512/ha-immich-frame/issues",
+    "version": "0.0.1"
 }
