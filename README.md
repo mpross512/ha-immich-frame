@@ -17,7 +17,7 @@ This Home Assistant integration allows you to locally control an Immich Frame ap
 
 ### [HACS](https://hacs.xyz) (Recommended)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mpross512&repository=https%3A%2F%2Fgithub.com%2Fmpross512%2Fha-immich-frame&category=Integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=mpross512&repository=ha-immich-frame&category=Integration)
 
 1. Have [HACS](https://github.com/custom-components/hacs) installed, this will allow you to easily update
 2. Add `https://github.com/mpross512/ha-immich-frame` as a [custom repository](https://hacs.xyz/docs/faq/custom_repositories) and Type: Integration

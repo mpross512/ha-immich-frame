@@ -60,7 +60,7 @@ class ImmichFrameConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
     """Handle a config flow for Immich Frame."""
 
     VERSION = 1
-    CONNECTION_CLASS = config_entries.CONN_CLASS_LOCAL_PUSH
+    CONNECTION_CLASS = config_entries.CONN_CLASS_ASSUMED_STATE
 
     @staticmethod
     @callback
