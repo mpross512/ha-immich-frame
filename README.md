@@ -1,6 +1,6 @@
 # Immich Frame Home Assistant Integration
 
-Home Assistant Integration for Immich Frame
+Home Assistant Integration for [Immich Frame](https://immichframe.dev/)
 
 This Home Assistant integration allows you to locally control an Immich Frame app running on your local network. You must be running the iOS or Android app for this to work; you cannot just be running Immich Frame in the browser on a tablet/mobile device.
 
