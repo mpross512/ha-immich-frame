@@ -1,0 +1,36 @@
+{
+    "config": {
+        "error": {
+            "cannot_connect": "Unable to connect to the Immich Frame.",
+            "invalid_host": "Please enter a valid IP address or hostname."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "Immich Frame IP Address"
+                }
+            }
+        }
+    },
+    "entity": {
+        "button": {
+            "next": {
+                "name": "Next photo"
+            },
+            "previous": {
+                "name": "Previous photo"
+            },
+            "pause": {
+                "name": "Pause slideshow"
+            },
+            "settings": {
+                "name": "Open settings"
+            }
+        },
+        "light": {
+            "immich_frame_display": {
+                "name": "Immich Frame Display"
+            }
+        }
+    }
+}

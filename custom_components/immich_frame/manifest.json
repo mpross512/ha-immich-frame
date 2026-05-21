@@ -1,0 +1,11 @@
+{
+    "domain": "immich_frame",
+    "name": "Immich Frame",
+    "version": "0.0.1",
+    "documentation": "https://github.com/mpross512/ha-immich-frame",
+    "codeowners": [
+        "mpross512"
+    ],
+    "config_flow": true,
+    "iot_class": "local_push"
+}
