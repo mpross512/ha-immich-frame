@@ -14,15 +14,6 @@
     },
     "entity": {
         "button": {
-            "next": {
-                "name": "Next photo"
-            },
-            "previous": {
-                "name": "Previous photo"
-            },
-            "pause": {
-                "name": "Pause slideshow"
-            },
             "settings": {
                 "name": "Open settings"
             }
